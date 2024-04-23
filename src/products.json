@@ -1,0 +1,72 @@
+[
+    {
+        "id" : 1,
+        "name": "Chicken",
+        "prt": 25,
+        "carb": 0,
+        "fat" : 1,
+        "kc": 100,
+        "amount": 1,
+        "img": "/images/tavuk.jpg"
+    },
+    {
+        "id" : 2,
+        "name": "Egg",
+        "prt": 6,
+        "carb": 0,
+        "fat":3,
+        "kc": 10,
+        "amount": 1,
+        "img": "/images/yumurta.jpg"
+    },
+    {
+        "id" : 3,
+        "name": "Oat",
+        "prt": 12,
+        "carb":53,
+        "fat":3,
+        "kc": 10,
+        "amount": 1,
+        "img": "/images/yulaf.jpg"
+    },
+    {
+        "id" : 4,
+        "name": "Egg",
+        "prt": 6,
+        "carb": 0,
+        "fat":3,
+        "kc": 10,
+        "amount": 1,
+        "img": "/images/yumurta.jpg"
+    },
+    {
+        "id" : 5,
+        "name": "Egg",
+        "prt": 6,
+        "carb": 0,
+        "fat":3,
+        "kc": 10,
+        "amount": 1,
+        "img": "/images/yumurta.jpg"
+    },
+    {
+        "id" : 6,
+        "name": "Egg",
+        "prt": 6,
+        "carb": 0,
+        "fat":3,
+        "kc": 10,
+        "amount": 1,
+        "img": "/images/yumurta.jpg"
+    },
+    {
+        "id" : 7,
+        "name": "Egg",
+        "prt": 6,
+        "carb": 0,
+        "fat":3,
+        "kc": 10,
+        "amount": 1,
+        "img": "/images/yumurta.jpg"
+    }
+]
